@@ -29,7 +29,7 @@ The API is designed to help users get professional, detailed, and insightful res
    Finally, the AI generates a well-structured, detailed, and professional response, providing the user with a comprehensive answer based on both the search results and the AI's insights.
 
 By using this API, you will always have access to the latest insights, driven by real-time web data and advanced AI capabilities.
-
+---
 ## **API Endpoint**
 
 ### **Endpoint:**
